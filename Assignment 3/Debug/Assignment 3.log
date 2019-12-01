@@ -1,0 +1,4 @@
+﻿  AnimationManager.cpp
+C:\Users\Pat\Desktop\C++\Assignments\Assignment 3\Assignment 3\AnimationManager.cpp(35,12): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Pat\Desktop\C++\Assignments\Assignment 3\Assignment 3\AnimationManager.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+  Assignment 3.vcxproj -> C:\Users\Pat\Desktop\C++\Assignments\Assignment 3\Assignment 3\Debug\Assignment 3.exe
